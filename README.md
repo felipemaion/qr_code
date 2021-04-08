@@ -22,6 +22,6 @@ Usage: \
 \
 \
 Notes:\
-    (1) for the first run, you may need to add a dummy 'test.png' file to your folder.\
-    (2) the font of your choice must be in the folder if you want to use it (optional)\
-    (3) for the bulk operation, use links with same pattern, otherwise QR-CODE will be different amoung them.
+*(1) for the first run, you may need to add a dummy 'test.png' file to your folder.\
+*(2) the font of your choice must be in the folder if you want to use it (optional)\
+*(3) for the bulk operation, use links with same pattern, otherwise QR-CODE will be different amoung them.
