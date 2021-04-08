@@ -1,12 +1,17 @@
-# qr_code
+# QR CODE GENERATOR
 Code to generate QR-CODE from a url, adding a logo and a title.
 
 Requirements (pip install): pyqrcode, pillow
 
 Usage: 
-1 - Add display 'name' and shorten link 'url' to a dict (product). ```product = ["name":"TITLE", "url":"your_url"]```
-    1.1 If you are performing a bulk operation. Add the product dict to the list 'products'. ``` products = [product1, product2,...] ```
-2 - Call 'convert(product:dict)' or 'convert_all(products:list)'
+1 - Add display 'name' and shorten link 'url' to a dict (product). 
+        ```product = {"name":"TITLE", "url":"your_url"}```
+    1.1 If you are performing a bulk operation. Add the product dict to the list 'products'. 
+         ``` products = [product1, product2,...] ```
+2 - Call:
+    ```convert(product:dict)``` 
+    or 
+    ```convert_all(products:list)```
 
 
 
