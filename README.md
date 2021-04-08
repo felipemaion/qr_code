@@ -29,7 +29,7 @@ products = [product1, product2,...]
 convert(product:dict)
 ```   
   
-    or   
+or bulk usage: 
   
 ```
 convert_all(products:list)
