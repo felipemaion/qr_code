@@ -13,9 +13,10 @@ pip install pyqrcode
 ```
 
 ## Usage
-1 - Add display 'name' and shorten link 'url' to a dict (product).  
-  
-       ```product = {"name":"TITLE", "url":"your_url"}```  
+1 - Add display 'name' and shorten link 'url' to a dict (product).   
+```
+product = {"name":"TITLE", "url":"your_url"}
+```  
   
 1.1 If you are performing a bulk operation. Add the product dict to the list 'products'.   
 ``` 
