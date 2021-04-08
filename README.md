@@ -1,7 +1,11 @@
-# QR CODE GENERATOR
+# QR CODE
+<p align="center">
 
+<img src="qr_codes/flexitol_eco.png" alt="Example of QR-CODE">
+<br />
+Script to generate QR-CODE from a url, adding a logo and a title.
+</p> 
 
-Code to generate QR-CODE from a url, adding a logo and a title.
 
 ## Installation
 
