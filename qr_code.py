@@ -7,7 +7,8 @@ Usage:
     1.1 If you are performing a bulk operation. Add the product dict to the list 'products'.
 2 - Call 'convert(product:dict)' or 'convert_all(products:list)'
 
-Requirements: pyqrcode, PIL
+Requirements: pyqrcode, pillow
+
 Notes: 
     (1) for the first run, you may need to add a dummy 'test.png' file to your folder.
     (2) the font of your choice must be in the folder if you want to use it (optional)
@@ -15,7 +16,7 @@ Notes:
 """
 
 # author: Felipe Maion 
-# e-mail: fmaion@bollhoff.com // felipe.maion@gmail.com
+# e-mail: felipe.maion@gmail.com
 
 import pyqrcode
 from PIL import Image, ImageDraw, ImageFont
