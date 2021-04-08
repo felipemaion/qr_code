@@ -44,7 +44,7 @@ convert_all(products:list)
 ## Notes:  
     (1) for the first run, you may need to add a dummy 'test.png' file to your folder.  
     (2) the font of your choice must be in the folder if you want to use it (optional)  
-    (3) for the bulk operation, use links with same pattern, otherwise QR-CODE will be different amoung them.  
+    (3) for the bulk operation, use links with same pattern, otherwise QR-CODE size will be different amoung them.  
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
